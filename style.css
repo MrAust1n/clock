@@ -1,0 +1,24 @@
+body {
+    font-family: 'Abel', sans-serif;
+    display: grid;
+    place-items: center;
+    height: 100vh;
+    margin: 0;
+  background: #222;
+  color: #fff; 
+}
+.time {
+    padding: 8px;
+    text-align: center;
+    width: 300px;
+}
+.hms {
+    font-size: 50px;
+    font-weight: 400;
+}
+.ampm {
+    font-size: 20px;
+}
+.date {
+    font-size: 30px;
+}
